@@ -16,7 +16,7 @@ Vim, you can use [StackExchange](https://vi.stackexchange.com/)
 or one of the [Maillists](https://www.vim.org/community.php).
 
 ## What is Vim?
-
+c'est quoi vim?
 Vim is a greatly improved version of the good old UNIX editor
 [Vi](https://en.wikipedia.org/wiki/Vi_(text_editor)).  Many new
 features have been added: multi-level undo, syntax highlighting, command line
