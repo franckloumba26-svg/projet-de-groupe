@@ -1,4 +1,4 @@
-:: Start Vim on a copy of the tutor file.
+lancervim sur une copie du fichier tutor.
 @echo off
 SetLocal
 ::echo sert à afficher du texte 
