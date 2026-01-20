@@ -1,7 +1,6 @@
 README.txt for version 9.1 of Vim: Vi IMproved.
 
 
-WHAT IS VIM?
 
 Vim is a greatly improved version of the good old UNIX editor Vi.  Many new
 features have been added: multi-level undo, syntax highlighting, command line
@@ -26,6 +25,7 @@ Amiga DOS, Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained.
 
 
 DISTRIBUTION
+
 
 You can often use your favorite package manager to install Vim.  On Mac and
 Linux a small version of Vim is pre-installed, you still need to install Vim
@@ -94,6 +94,7 @@ distribute it.
 
 
 SPONSORING
+SPONSOR
 
 Fixing bugs and adding new features takes a lot of time and effort.  To show
 your appreciation for the work and motivate developers to continue working on
