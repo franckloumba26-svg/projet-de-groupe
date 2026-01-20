@@ -1,7 +1,7 @@
 :: Start Vim on a copy of the tutor file.
 @echo off
 SetLocal
-
+::echo sert à afficher du texte 
 :: Usage:
 :: vimtutor [/?|{/ | -}h|{/ | --}help] [{/ | -}c|{/ | --}chapter NUMBER] [{/ | --}console] [xx]
 ::
