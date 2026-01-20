@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a vulnerability
-
+signaler une vulnerabilite
 If you want to report a security issue, please privately disclose the issue to the vim-security mailing list
 vim-security@googlegroups.com
 
