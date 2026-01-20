@@ -1,4 +1,4 @@
-# Security Policy
+securité de la police
 
 ## Reporting a vulnerability
 signaler une vulnerabilite
