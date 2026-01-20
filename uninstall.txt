@@ -1,4 +1,4 @@
-Uninstalling Vim on MS-Windows.
+desinstallation de vim.
 
 There are three ways to remove Vim:
 
